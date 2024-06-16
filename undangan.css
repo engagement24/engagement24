@@ -7,7 +7,7 @@ body {
 .hero {
     min-height: 100vh;
     background-color: rgb(255, 255, 255);
-    background-image: url(img/bg.png);  
+    background-image: url(bg1.png);  
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
